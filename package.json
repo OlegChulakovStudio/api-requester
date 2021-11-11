@@ -1,6 +1,6 @@
 {
-  "name": "api-requester",
-  "version": "0.0.1-beta.2",
+  "name": "slim-api-requester",
+  "version": "0.0.1-beta.3",
   "description": "Обертка над axios для выполнения запросов",
   "main": "lib/index.js",
   "types": "lib",
