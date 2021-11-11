@@ -1,4 +1,4 @@
-# @CH/API
+# api-requester
 Обертка над axios для выполнения запросов к API
 
 Утановка через npm
