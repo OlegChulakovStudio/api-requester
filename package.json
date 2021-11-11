@@ -1,5 +1,5 @@
 {
-  "name": "ch-api",
+  "name": "api-requester",
   "version": "1.0.0",
   "description": "Обертка над axios для выполнения запросов",
   "main": "lib/index.js",
@@ -8,7 +8,7 @@
   "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/OlegChulakovStudio/ch-api"
+    "url": "https://github.com/OlegChulakovStudio/api-requester"
   },
   "scripts": {
     "build": "tsc --build",

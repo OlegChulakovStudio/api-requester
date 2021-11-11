@@ -4,13 +4,13 @@
 Утановка через npm
 
 ```
-npm i ch-api
+npm i api-requester
 ```
 
 Пример использования в приложении
 
 ```
-import CHRequest from "ch-api";
+import CHRequest from "api-requester";
 
 /** Запрос к АПИ. */
 export default function request(method, url, options = {}) {
