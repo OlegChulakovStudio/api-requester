@@ -1,6 +1,6 @@
 {
   "name": "api-requester",
-  "version": "1.0.0",
+  "version": "0.0.1-beta.2",
   "description": "Обертка над axios для выполнения запросов",
   "main": "lib/index.js",
   "types": "lib",
