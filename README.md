@@ -1,16 +1,16 @@
-# slim-api-requster
+# slim-api-requester
 Обертка над axios для выполнения запросов к API
 
 Утановка через npm
 
 ```
-npm i slim-api-requster
+npm i slim-api-requester
 ```
 
 Пример использования в приложении
 
 ```
-import CHRequest from "slim-api-requster";
+import CHRequest from "slim-api-requester";
 
 /** Запрос к АПИ. */
 export default function request(method, url, options = {}) {
